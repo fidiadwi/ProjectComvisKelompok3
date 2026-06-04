@@ -1,6 +1,11 @@
 # ProjectComvisKelompok3
 Deteksi Huruf Kaganga Aksara Ulu Rejang menggunakan YOLOv8
 
+## Anggota
+1. G1A023040 - Fidia Dewi Wulandari Batu Bara
+2. G1A023052 - Anisa Julianti
+3. G1A023080 - Khalisa Rizgita Amanda
+
 # Deteksi Huruf Kaganga Aksara Ulu Rejang Menggunakan YOLOv8
 
 ## Cell 1 - Install Library
